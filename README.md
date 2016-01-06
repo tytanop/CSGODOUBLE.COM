@@ -1,22 +1,13 @@
 // ==UserScript==
 // @name         csgodobule bot
-
-// @namespace    http://csgodouble.com
-
+// @namespace    csgodouble
 // @version      2.0
-
 // @description  Last colour
-
 // @author       Bob
-
 // @match        http://www.csgodouble.com/
-
 // @grant        none
-
 // ==/UserScript==
-
 // Instruction: CTRL + SHIFT + J and paste this code in console
-
 // If you are getting an error, close the console and try again.
 
  
